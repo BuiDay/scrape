@@ -1,0 +1,15 @@
+{
+  "name": "scape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^19.8.1",
+    "puppeteer": "^19.8.0"
+  }
+}
