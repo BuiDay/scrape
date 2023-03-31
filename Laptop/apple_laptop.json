@@ -28,9 +28,9 @@
             }
         ],
         "colors": [
-            "Vàng",
             "Xám",
-            "Bạc"
+            "Bạc",
+            "Vàng"
         ],
         "technicalInfo": [
             "<li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Loại card đồ họa</p> <div>GPU 7 nhân, 16 nhân Neural Engine</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Dung lượng RAM</p> <div>8GB</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Loại RAM</p> <div>LPDDR4</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Ổ cứng</p> <div>256GB SSD</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Kích thước màn hình</p> <div>13.3 inches</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Công nghệ màn hình</p> <div>Độ sáng 400 nits <br>Hỗ trợ dải màu P3 <br>True-Tone</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Pin</p> <div>49.9-watt lithium-polymer, củ sạc công suất 30W</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Hệ điều hành</p> <div>macOS Big Sur</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Độ phân giải màn hình</p> <div>2560 x 1600 pixels (2K)</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Cổng giao tiếp</p> <div>2 cổng Thunderbolt / USB 4</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Tính năng khác</p> <div>Cảm biến vân tay Touch ID, 720p FaceTime HD camera</div></li>"
@@ -46,6 +46,9 @@
         ],
         "totalRating": [
             "4.7/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -100,6 +103,9 @@
         ],
         "totalRating": [
             "0/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -140,6 +146,9 @@
         ],
         "totalRating": [
             "0/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -176,6 +185,52 @@
         ],
         "totalRating": [
             "0/5"
+        ],
+        "brand": [
+            "Apple"
+        ]
+    },
+    {
+        "title": [
+            "MacBook Pro 14 inch M2 Pro 2023 (10 CPU - 16 GPU - 16GB - 512GB)"
+        ],
+        "images": [
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/2/m2_pro_14.png",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/2/m2_pro_14.png",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/b/mbp14-silver-select-202301_1.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/b/mbp14-spacegray-select-202301_1.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/i/n/in_the_box_14_inch__cla7biqzxe6a_large_3.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/k/e/keyboard_14_inch__bjo3gj8bnogi_large_3.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/r/o/routers_compare__dg2f68dd3y0y_large_3.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/i/display_14_inch__f298e9zwj02m_large_3.jpg"
+        ],
+        "price": [
+            {
+                "price_show": "48.790.000 ₫",
+                "price_through": "52.990.000 ₫"
+            }
+        ],
+        "colors": [
+            "Xám",
+            "Bạc"
+        ],
+        "technicalInfo": [
+            "<li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Loại card đồ họa</p> <div>16 nhân GPU<br>16 nhân Neural Engine</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Dung lượng RAM</p> <div>16GB</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Ổ cứng</p> <div>512GB SSD</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Kích thước màn hình</p> <div>14.2 inches</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Công nghệ màn hình</p> <div>120Hz, Liquid Retina, Mini LED, XDR</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Pin</p> <div>70Wh<br>Đi kèm sạc 67W</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Hệ điều hành</p> <div>MacOS</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Độ phân giải màn hình</p> <div>3024 x 1964 pixels </div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Cổng giao tiếp</p> <div>1 x 3.5mm <br>Cổng MagSafe<br> 1x HDMI <br> 1x SDXC</div></li>"
+        ],
+        "description": [
+            {
+                "features_des": "<ul><li>Thiết kế sang trọng - Vỏ kim loại cùng trọng lượng chỉ 1.6kg dễ dàng mang theo mọi nơi</li><li>Hiển thị chân thật - Kích thước màn hình 14 inch cùng tần số quét lên đến 120Hz</li><li>Cấu hình mạnh mẽ - Ram 16GB cùng SSD 512 GB đa nhiệm mượt mà, tránh tình trạng giật lag</li><li>Xử lý tốt các tác vụ đồ hoạ - GPU 16 nhân giúp việc render video hay chỉnh sửa ảnh diễn ra một cách nhẹ nhàng.</li></ul>",
+                "features_detail": "<h2 style=\"text-align: justify;\"><strong>Macbook Pro 14 inch 2023 M2 Pro – Sang trọng, mỏng nhẹ, mạnh mẽ</strong></h2> <p style=\"text-align: justify;\">Macbook Pro 14 inch M2 Pro&nbsp;2023 là chiếc laptop của thương hiệu Apple, mang lại cho người dùng sự sang trọng và thanh lịch. Sở hữu cho mình bộ vi xử lý chip <a href=\"https://cellphones.com.vn/laptop/mac/macbook-pro/macbook-pro-2023.html\" title=\"Macbook Pro 2023\" target=\"_blank\"><strong>Macbook Pro 2023</strong></a> giúp tăng hiệu suất xử lý đa tác vụ và độ họa một cách mượt mà nhất.</p> <h3 style=\"text-align: justify;\"><strong>Thiết kế sang trọng, kích thước mỏng nhẹ</strong></h3> <p style=\"text-align: justify;\">Với dòng laptop mới của thương hiệu vừa được ra mắt trong thời gian mới đây, Macbook Pro 14 2023 M2 Pro mang lại cho chúng ta hai lựa chọn màu sắc. Phù hợp cho người dùng thích sự đơn giản và tông màu trung tính đó là xám và bạc quen thuộc. Thiết kế mang lại sự sang trọng khó dòng laptop nào làm được.</p> <p style=\"text-align: justify;\">Có thể tại phiên bản này, thương hiệu Apple mang lại cho người dùng phiên bản màu đậm hơn như dòng Macbook Air. Với thiết kế vô cùng mỏng nhẹ mà Apple hướng đến, màn hình tràn viền cùng bàn phím vô cùng đẹp mắt. Logo quả táo khuyết quen thuộc vẫn được đặt sau lưng máy nhưng được tăng kích thước.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro/2023/macbook-pro-14-inch-m2-pro-2023-9.jpg\" alt=\"Macbook Pro 14 inch M2 Pro 2023 16GB - 512GB\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Thiết bị sở hữu kích thước gọn nhẹ: W31.26 x H1.55 x D22.12 (cm) và trọng lượng chỉ 1.60kg. Nhờ vậy, người dùng dễ dàng mang đi khắp mọi nơi để phục vụ cho công việc, học tập.</p> <h3 style=\"text-align: justify;\"><strong>Màn hình sắc nét, hiển thị chân thật</strong></h3> <p style=\"text-align: justify;\">Macbook Pro 14 inch 2023 sở hữu cho mình thiết kế màn hình kích thước rộng 14 inch vô cùng thoải mái, viền vô cùng mỏng. Giúp cho người dùng được trải nghiệm phần nhìn được tốt hơn, người dùng có thể sử dụng nhiều tác vụ cùng một lúc, tăng hiệu suất công việc, học tập.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro/2023/macbook-pro-14-inch-m2-pro-2023-6.jpg\" alt=\"Macbook Pro 14 inch M2 Pro 2023 16GB - 512GB\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Hỗ trợ True Tone cùng dải màu P3 giúp cho hình ảnh hiển thị vô cùng sắc nét, các màu sắc sáng, tối được thể hiện chi tiết hơn. Độ phân giải 3.024 x 1.964 cùng độ sáng tối đa là 1.600 nit, giúp cho mắt của chúng ta không bị quá khó chịu.</p> <h3 style=\"text-align: justify;\"><strong>Hiệu năng mạnh mẽ nhờ chip M2 Pro</strong></h3> <p style=\"text-align: justify;\">Apple đã cho ra mắt bộ vi xử lý là M1 Max và M1 Pro vào năm 2021, và tháng 6 năm 2022, thương hiệu “Quả Táo Khuyết” đã tiếp tục giới thiệu Chip M2 Pro và M2 Max cùng với MacBook Air và MacBook Pro 13 inch.&nbsp;</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro/2023/macbook-pro-14-inch-m2-pro-2023-4.jpg\" alt=\"Macbook Pro 14 inch M2 Pro 2023 16GB - 512GB\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Chip M2 Pro 8 nhân mang lại cho người dùng hiệu suất tăng vượt trội, với hiệu suất CPU tăng 15%, hiệu suất đồ họa tăng 35%. Giúp xử lý nhiều tác vụ cùng một lúc và xử lý các phần mềm đồ họa một các mượt mà, không gặp độ trễ phản hồi quá lớn.</p> <h3 style=\"text-align: justify;\"><strong>Hỗ trợ dung lượng bộ nhớ lớn</strong></h3> <p style=\"text-align: justify;\">Với phiên bản Macbook Pro 14 inch 2023 M2 Pro, ta có được bộ nhớ RAM lên đến 16GB, hỗ trợ cho việc lưu trữ và tăng tốc độ xử lý dữ liệu. Bộ nhớ này còn có thể hỗ trợ nâng cấp tối đa lên đến 32GB, đáp ứng tốt nhu cầu người dùng.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro/2023/macbook-pro-14-inch-m2-pro-2023-3.jpg\" alt=\"Macbook Pro 14 inch M2 Pro 2023 16GB - 512GB\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Với dung lượng ổ cứng SSD 512GB cho khả năng lưu trữ dữ liệu, ứng dụng được thoải mái. Bạn tha hồ tải các ứng dụng game giải trí, phần mềm đồ họa, văn phòng, … mà không lo việc bị đầy bộ nhớ. Dung lượng này còn có thể được hỗ trợ nâng cấp tối đa lên tối đa 2TB.</p> <h3 style=\"text-align: justify;\"><strong>Dung lượng pin sử dụng tốt hơn</strong></h3> <p style=\"text-align: justify;\">Macbook Pro 14 inch M2 Pro 2023 với dung lượng pin 70Wh giúp cho người dùng có trải nghiệm sử dụng với thời lượng pin được lâu hơn. Duy trì thời gian sử dụng có thể kéo dài nhiều tiếng đồng hồ, theo bạn hỗ trợ học tập, làm việc xuyên suốt.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro/2023/macbook-pro-14-inch-m2-pro-2023-7.jpg\" alt=\"Macbook Pro 14 inch M2 Pro 2023 16GB - 512GB\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Chỉ cần bạn sạc đầy là đã có thể mang Macbook Pro 14 2023 M2 Pro di chuyển sử dụng linh hoạt mà không cần phải nguồn sạc ngay lúc đó. Hỗ trợ sạc với công suất lớn, giúp cho laptop được đầy lại pin một cách nhanh chóng mà không cần chờ đợi quá lâu.</p> <h3 style=\"text-align: justify;\"><strong>Trang bị các tính năng mới</strong></h3> <p style=\"text-align: justify;\">Được hỗ trợ tính năng bảo mật Face ID, cho phép người dùng có thể mở khóa nhận diện bằng gương mặt. Tăng tính an toàn cho dữ liệu trong máy tính xách tay của người sử dụng. Dự kiến Macbook Pro 14 M2 Pro 2023 sẽ được hỗ trợ trợ lý ảo Siri, giúp bạn có thể vận hành laptop bằng cách lệnh giọng nói, mong rằng Apple sẽ tích hợp tính năng này.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro/2023/macbook-pro-14-inch-m2-pro-2023-5.jpg\" alt=\"Trang bị các tính năng mới\" loading=\"lazy\"></p> <h2 style=\"text-align: justify;\"><strong>Mua Macbook Pro 14 inch M2 Pro 2023 chính hãng tại CellphoneS</strong></h2> <p style=\"text-align: justify;\">Hãy đến ngay cửa hàng CellphoneS gần bạn nhất, để có thể sở hữu ngay trong tay chiếc máy tính Apple Macbook Pro 14 inch 2023 với thiết kế sang trọng và hiệu năng mạnh mẽ từ chip M2 Pro này. Tại đây, bạn sẽ sở hữu Macbook chính hãng với giá tốt, bảo hành 12 tháng, đổi mới 30 ngày đầu tiên và còn được nhận rất nhiều ưu đãi khủng.</p>"
+            }
+        ],
+        "category": [
+            "Laptop"
+        ],
+        "totalRating": [
+            "0/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -214,6 +269,9 @@
         ],
         "totalRating": [
             "5.0/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -267,6 +325,9 @@
         ],
         "totalRating": [
             "4.8/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -300,10 +361,10 @@
             }
         ],
         "colors": [
-            "Vàng",
-            "Xám",
+            "Bạc",
             "Đen",
-            "Bạc"
+            "Vàng",
+            "Xám"
         ],
         "technicalInfo": [
             "<li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Loại card đồ họa</p> <div>8 nhân GPU, 16 nhân Neural Engine</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Dung lượng RAM</p> <div>16GB</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Ổ cứng</p> <div>256GB</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Kích thước màn hình</p> <div>13.6 inches</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Công nghệ màn hình</p> <div>Liquid Retina Display</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Pin</p> <div>52,6 Wh</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Hệ điều hành</p> <div>MacOS</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Độ phân giải màn hình</p> <div>2560 x 1664 pixels</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Cổng giao tiếp</p> <div> 2 x Thunderbolt 3<br>Jack tai nghe 3.5 mm<br>MagSafe 3</div></li>"
@@ -319,6 +380,9 @@
         ],
         "totalRating": [
             "0/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -359,6 +423,9 @@
         ],
         "totalRating": [
             "5.0/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -398,46 +465,9 @@
         ],
         "totalRating": [
             "5.0/5"
-        ]
-    },
-    {
-        "title": [
-            "MacBook Pro 14 inch M2 Pro 2023 (10 CPU - 16 GPU - 16GB - 512GB)"
         ],
-        "images": [
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/2/m2_pro_14.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/2/m2_pro_14.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/b/mbp14-silver-select-202301_1.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/b/mbp14-spacegray-select-202301_1.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/i/n/in_the_box_14_inch__cla7biqzxe6a_large_3.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/k/e/keyboard_14_inch__bjo3gj8bnogi_large_3.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/r/o/routers_compare__dg2f68dd3y0y_large_3.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/i/display_14_inch__f298e9zwj02m_large_3.jpg"
-        ],
-        "price": [
-            {
-                "price_show": "48.990.000 ₫",
-                "price_through": "52.990.000 ₫"
-            }
-        ],
-        "colors": [
-            "Xám",
-            "Bạc"
-        ],
-        "technicalInfo": [
-            "<li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Loại card đồ họa</p> <div>16 nhân GPU<br>16 nhân Neural Engine</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Dung lượng RAM</p> <div>16GB</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Ổ cứng</p> <div>512GB SSD</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Kích thước màn hình</p> <div>14.2 inches</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Công nghệ màn hình</p> <div>120Hz, Liquid Retina, Mini LED, XDR</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Pin</p> <div>70Wh<br>Đi kèm sạc 67W</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Hệ điều hành</p> <div>MacOS</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Độ phân giải màn hình</p> <div>3024 x 1964 pixels </div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Cổng giao tiếp</p> <div>1 x 3.5mm <br>Cổng MagSafe<br> 1x HDMI <br> 1x SDXC</div></li>"
-        ],
-        "description": [
-            {
-                "features_des": "<ul><li>Thiết kế sang trọng - Vỏ kim loại cùng trọng lượng chỉ 1.6kg dễ dàng mang theo mọi nơi</li><li>Hiển thị chân thật - Kích thước màn hình 14 inch cùng tần số quét lên đến 120Hz</li><li>Cấu hình mạnh mẽ - Ram 16GB cùng SSD 512 GB đa nhiệm mượt mà, tránh tình trạng giật lag</li><li>Xử lý tốt các tác vụ đồ hoạ - GPU 16 nhân giúp việc render video hay chỉnh sửa ảnh diễn ra một cách nhẹ nhàng.</li></ul>",
-                "features_detail": "<h2 style=\"text-align: justify;\"><strong>Macbook Pro 14 inch 2023 M2 Pro – Sang trọng, mỏng nhẹ, mạnh mẽ</strong></h2> <p style=\"text-align: justify;\">Macbook Pro 14 inch M2 Pro&nbsp;2023 là chiếc laptop của thương hiệu Apple, mang lại cho người dùng sự sang trọng và thanh lịch. Sở hữu cho mình bộ vi xử lý chip <a href=\"https://cellphones.com.vn/laptop/mac/macbook-pro/macbook-pro-2023.html\" title=\"Macbook Pro 2023\" target=\"_blank\"><strong>Macbook Pro 2023</strong></a> giúp tăng hiệu suất xử lý đa tác vụ và độ họa một cách mượt mà nhất.</p> <h3 style=\"text-align: justify;\"><strong>Thiết kế sang trọng, kích thước mỏng nhẹ</strong></h3> <p style=\"text-align: justify;\">Với dòng laptop mới của thương hiệu vừa được ra mắt trong thời gian mới đây, Macbook Pro 14 2023 M2 Pro mang lại cho chúng ta hai lựa chọn màu sắc. Phù hợp cho người dùng thích sự đơn giản và tông màu trung tính đó là xám và bạc quen thuộc. Thiết kế mang lại sự sang trọng khó dòng laptop nào làm được.</p> <p style=\"text-align: justify;\">Có thể tại phiên bản này, thương hiệu Apple mang lại cho người dùng phiên bản màu đậm hơn như dòng Macbook Air. Với thiết kế vô cùng mỏng nhẹ mà Apple hướng đến, màn hình tràn viền cùng bàn phím vô cùng đẹp mắt. Logo quả táo khuyết quen thuộc vẫn được đặt sau lưng máy nhưng được tăng kích thước.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro/2023/macbook-pro-14-inch-m2-pro-2023-9.jpg\" alt=\"Macbook Pro 14 inch M2 Pro 2023 16GB - 512GB\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Thiết bị sở hữu kích thước gọn nhẹ: W31.26 x H1.55 x D22.12 (cm) và trọng lượng chỉ 1.60kg. Nhờ vậy, người dùng dễ dàng mang đi khắp mọi nơi để phục vụ cho công việc, học tập.</p> <h3 style=\"text-align: justify;\"><strong>Màn hình sắc nét, hiển thị chân thật</strong></h3> <p style=\"text-align: justify;\">Macbook Pro 14 inch 2023 sở hữu cho mình thiết kế màn hình kích thước rộng 14 inch vô cùng thoải mái, viền vô cùng mỏng. Giúp cho người dùng được trải nghiệm phần nhìn được tốt hơn, người dùng có thể sử dụng nhiều tác vụ cùng một lúc, tăng hiệu suất công việc, học tập.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro/2023/macbook-pro-14-inch-m2-pro-2023-6.jpg\" alt=\"Macbook Pro 14 inch M2 Pro 2023 16GB - 512GB\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Hỗ trợ True Tone cùng dải màu P3 giúp cho hình ảnh hiển thị vô cùng sắc nét, các màu sắc sáng, tối được thể hiện chi tiết hơn. Độ phân giải 3.024 x 1.964 cùng độ sáng tối đa là 1.600 nit, giúp cho mắt của chúng ta không bị quá khó chịu.</p> <h3 style=\"text-align: justify;\"><strong>Hiệu năng mạnh mẽ nhờ chip M2 Pro</strong></h3> <p style=\"text-align: justify;\">Apple đã cho ra mắt bộ vi xử lý là M1 Max và M1 Pro vào năm 2021, và tháng 6 năm 2022, thương hiệu “Quả Táo Khuyết” đã tiếp tục giới thiệu Chip M2 Pro và M2 Max cùng với MacBook Air và MacBook Pro 13 inch.&nbsp;</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro/2023/macbook-pro-14-inch-m2-pro-2023-4.jpg\" alt=\"Macbook Pro 14 inch M2 Pro 2023 16GB - 512GB\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Chip M2 Pro 8 nhân mang lại cho người dùng hiệu suất tăng vượt trội, với hiệu suất CPU tăng 15%, hiệu suất đồ họa tăng 35%. Giúp xử lý nhiều tác vụ cùng một lúc và xử lý các phần mềm đồ họa một các mượt mà, không gặp độ trễ phản hồi quá lớn.</p> <h3 style=\"text-align: justify;\"><strong>Hỗ trợ dung lượng bộ nhớ lớn</strong></h3> <p style=\"text-align: justify;\">Với phiên bản Macbook Pro 14 inch 2023 M2 Pro, ta có được bộ nhớ RAM lên đến 16GB, hỗ trợ cho việc lưu trữ và tăng tốc độ xử lý dữ liệu. Bộ nhớ này còn có thể hỗ trợ nâng cấp tối đa lên đến 32GB, đáp ứng tốt nhu cầu người dùng.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro/2023/macbook-pro-14-inch-m2-pro-2023-3.jpg\" alt=\"Macbook Pro 14 inch M2 Pro 2023 16GB - 512GB\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Với dung lượng ổ cứng SSD 512GB cho khả năng lưu trữ dữ liệu, ứng dụng được thoải mái. Bạn tha hồ tải các ứng dụng game giải trí, phần mềm đồ họa, văn phòng, … mà không lo việc bị đầy bộ nhớ. Dung lượng này còn có thể được hỗ trợ nâng cấp tối đa lên tối đa 2TB.</p> <h3 style=\"text-align: justify;\"><strong>Dung lượng pin sử dụng tốt hơn</strong></h3> <p style=\"text-align: justify;\">Macbook Pro 14 inch M2 Pro 2023 với dung lượng pin 70Wh giúp cho người dùng có trải nghiệm sử dụng với thời lượng pin được lâu hơn. Duy trì thời gian sử dụng có thể kéo dài nhiều tiếng đồng hồ, theo bạn hỗ trợ học tập, làm việc xuyên suốt.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro/2023/macbook-pro-14-inch-m2-pro-2023-7.jpg\" alt=\"Macbook Pro 14 inch M2 Pro 2023 16GB - 512GB\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Chỉ cần bạn sạc đầy là đã có thể mang Macbook Pro 14 2023 M2 Pro di chuyển sử dụng linh hoạt mà không cần phải nguồn sạc ngay lúc đó. Hỗ trợ sạc với công suất lớn, giúp cho laptop được đầy lại pin một cách nhanh chóng mà không cần chờ đợi quá lâu.</p> <h3 style=\"text-align: justify;\"><strong>Trang bị các tính năng mới</strong></h3> <p style=\"text-align: justify;\">Được hỗ trợ tính năng bảo mật Face ID, cho phép người dùng có thể mở khóa nhận diện bằng gương mặt. Tăng tính an toàn cho dữ liệu trong máy tính xách tay của người sử dụng. Dự kiến Macbook Pro 14 M2 Pro 2023 sẽ được hỗ trợ trợ lý ảo Siri, giúp bạn có thể vận hành laptop bằng cách lệnh giọng nói, mong rằng Apple sẽ tích hợp tính năng này.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro/2023/macbook-pro-14-inch-m2-pro-2023-5.jpg\" alt=\"Trang bị các tính năng mới\" loading=\"lazy\"></p> <h2 style=\"text-align: justify;\"><strong>Mua Macbook Pro 14 inch M2 Pro 2023 chính hãng tại CellphoneS</strong></h2> <p style=\"text-align: justify;\">Hãy đến ngay cửa hàng CellphoneS gần bạn nhất, để có thể sở hữu ngay trong tay chiếc máy tính Apple Macbook Pro 14 inch 2023 với thiết kế sang trọng và hiệu năng mạnh mẽ từ chip M2 Pro này. Tại đây, bạn sẽ sở hữu Macbook chính hãng với giá tốt, bảo hành 12 tháng, đổi mới 30 ngày đầu tiên và còn được nhận rất nhiều ưu đãi khủng.</p>"
-            }
-        ],
-        "category": [
-            "Laptop"
-        ],
-        "totalRating": [
-            "0/5"
+        "brand": [
+            "Mac"
         ]
     },
     {
@@ -471,9 +501,9 @@
             }
         ],
         "colors": [
+            "Vàng",
             "Xám",
             "Bạc",
-            "Vàng",
             "Đen"
         ],
         "technicalInfo": [
@@ -490,6 +520,9 @@
         ],
         "totalRating": [
             "0/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -521,14 +554,14 @@
         ],
         "price": [
             {
-                "price_show": "32.490.000 ₫",
+                "price_show": "31.990.000 ₫",
                 "price_through": "39.990.000 ₫"
             }
         ],
         "colors": [
             "Bạc",
-            "Đen",
             "Trắng vàng",
+            "Đen",
             "Xám"
         ],
         "technicalInfo": [
@@ -545,6 +578,9 @@
         ],
         "totalRating": [
             "0/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -583,6 +619,49 @@
         ],
         "totalRating": [
             "0/5"
+        ],
+        "brand": [
+            "Apple"
+        ]
+    },
+    {
+        "title": [
+            "Mac mini M2 Pro 2023 (10 CPU - 16 GPU - 16GB - 512GB) | Chính hãng Apple Việt Nam"
+        ],
+        "images": [
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/a/p/apple_m2_pro.png",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/a/p/apple_m2_pro.png",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/o/download_2__3_2.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/mac-mini-m2-pro-4-3_1_1.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/mac-mini-2_1_2.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/mac-mini-1_1_3.jpg"
+        ],
+        "price": [
+            {
+                "price_show": "34.990.000 ₫",
+                "price_through": null
+            }
+        ],
+        "colors": [
+            "Xám"
+        ],
+        "technicalInfo": [
+            "<li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Loại card đồ họa</p> <div>16 nhân GPU</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Dung lượng RAM</p> <div>16GB</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Ổ cứng</p> <div>512GB</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Công nghệ màn hình</p> <div>Xuất hình ảnh 6K 60hz qua cổng Thunderbolt<br>Xuất hình ảnh 4K qua cổng HDMI</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Hệ điều hành</p> <div>macOS</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Cổng giao tiếp</p> <div>Thunderbolt 4<br>2 x USB‑A ports<br>HDMI<br>Wi‑Fi 6E<br>Cổng 3.5mm</div></li>"
+        ],
+        "description": [
+            {
+                "features_des": "<ul><li>Hiệu suất vượt trội với con chip M2 Pro - Xử lý mượt mà các tác vụ như render video, lập trình hay làm văn phòng</li><li>Kích thước nhỏ gọn chỉ 19.7 x 19.7 x 3.58 cm - Dễ dàng mang theo mọi lúc mọi nơi</li><li>Hệ điều hành macOS Ventura - Tối ưu tốt cho hơn 15000 ứng dụng</li><li>Tốc độ khởi động nhanh chóng với SSD 512GB</li><li>Hỗ trợ chuẩn Wifi 6E mới nhất cho tốc độ kết nối đến 2.4Gbps</li></ul>",
+                "features_detail": "<h2 style=\"text-align: justify;\"><strong>Mac mini M2 Pro 2023 - Thiết kế nhỏ gọn, cấu hình mạnh mẽ</strong></h2> <p style=\"text-align: justify;\"><strong>Mac mini M2 Pro 2023</strong> là sản phẩm công nghệ nổi trội của thương hiệu Apple chuẩn bị được ra mắt trong thời gian tới đây. Sở hữu hàng loạt những ưu điểm vượt trội như thiết kế hiện đại nhỏ gọn cùng hiệu năng được nâng cấp mạnh mẽ, chiếc <a href=\"https://cellphones.com.vn/laptop/mac/mini.html\" title=\"Mac mini\"><strong>Mac mini</strong></a> nhận được nhiều sự quan tâm và yêu mến của người dùng. Cùng CellphoneS tìm hiểu chi tiết về các thông số của thiết bị này ngay nhé!</p> <h3 style=\"text-align: justify;\"><strong>Mac mini M2 Pro 2023 sở hữu thiết kế nhỏ gọn, tinh tế</strong></h3> <p style=\"text-align: justify;\">Nhắc tới Mac Mini M2 Pro là người dùng đã có thể hình dung ngay tới một sản phẩm công nghệ hiện đại với thiết kế cực kỳ nhỏ gọn, bắt mắt. So với những phiên bản tiền nhiệm đã được ra mắt trước đó, Mac Mini M2 Pro được tối giản hơn nhiều ở thiết kế bên ngoài, đem tới cho người dùng những trải nghiệm mới lạ, thu hút.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/mac-mini-m2-pro-2023-1.jpg\" alt=\"Mac mini M2 Pro 2023\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Mac mini M2 Pro 2023 được chế tác từ chất liệu cao cấp, mang lại sự bền bỉ, chắc chắn trong quá trình sử dụng. Một điểm nổi trội khác của mac mini M2 Pro là sở hữu con chip thế hệ mới chiếm ít không gian hơn những phiên bản chip được phát triển bởi Intel. Nhờ vậy, không gian bên trong thiết bị sẽ được tối giản đến mức tối đa, thể hiện được sự nhẹ nhàng và có tính di động cao.</p> <h3 style=\"text-align: justify;\"><strong>Hiệu năng mạnh mẽ với chipset M2 Pro thế hệ mới</strong></h3> <p style=\"text-align: justify;\">Được cải tiến từ chip M2 đã xuất hiện trên các phiên bản trước đó, chip M2 Pro của Mac mini M2 Pro 2023 không chỉ sở hữu hiệu năng mạnh mẽ mà còn có vẻ ngoài khá nhỏ gọn, giúp tiết kiệm được không gian bên trong sản phẩm. Với CPU đời mới này của Apple, mọi tác vụ từ nặng nề cho tới đơn giản đều có thể được xử lý hết sức mượt mà trên Mac mini M2 Pro 2023.&nbsp;</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/mac-mini-m2-pro-2023-2.jpg\" alt=\"Mac mini M2 Pro 2023\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Nếu đem so sánh chip M2 Pro thế hệ mới này với những chipset đã được ra mắt trước đó thì M2 phiên bản nâng cấp sẽ vượt trội hơn rất nhiều. Cụ thể hiệu suất xử lý CPU và GPU của M2 Pro nhanh hơn 18% và 35% so với các phiên bản trước đó. Băng thông bộ nhớ của bộ vi xử lý này cũng có thể đạt tới con số cực khủng - 100GB/s.</p> <h3 style=\"text-align: justify;\"><strong>Khả năng kết nối linh hoạt với hệ thống cổng kết nối đa dạng</strong></h3> <p style=\"text-align: justify;\">Không chỉ sở hữu những ưu điểm vượt trội về mặt thiết kế và hiệu năng, Mac mini M2 Pro 2023 còn sở hữu khả năng tương thích hoàn hảo với nhiều thiết bị khác nhau thông qua các cổng kết nối linh hoạt. Cụ thể, sản phẩm này của “nhà Táo” sẽ được trang bị tới 4 cổng USB-C, 2 cổng USB-A cùng các cổng khác là Ethernet và HDMI.&nbsp;</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/mac-mini-m2-pro-2023-3.jpg\" alt=\"Mac mini M2 Pro 2023\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Nhờ sự đa dạng về các cổng kết nối, Mac mini M2 Pro sẽ có thể kết nối linh hoạt với nhiều thiết bị công nghệ khác nhau. Nếu bạn là một người bận rộn trong công việc và thường xuyên phải làm việc với máy tính thì Mac mini M2 Pro sẽ đem tới cho bạn những trải nghiệm cực kỳ mới lạ.&nbsp;</p> <p style=\"text-align: justify;\">Chỉ cần mang theo sản phẩm này tới bất kỳ nơi nào miễn là có màn hình, bàn phím, chuột, người dùng đã có thể tiếp tục thực hiện công việc của mình mà không hề gặp phải tình trạng nào.</p> <h2 style=\"text-align: justify;\"><strong>Mac mini M2 Pro 2023 khi nào được ra mắt? Giá bao nhiêu?</strong></h2> <p style=\"text-align: justify;\">Ở thời điểm hiện tại, dường như Apple vẫn chưa có kế hoạch ra mắt chính thức cho thiết bị mang tên Mac mini M2 Pro này. Tuy nhiên, người dùng khá mong chờ vào việc Macbook mini M2 Pro 2023 sẽ có mặt trên thị trường vào thời điểm mùa thu năm 2023.&nbsp;</p> <p style=\"text-align: justify;\">Điều này dường như đang dần trở thành sự thật khi nhiều nguồn thông tin rò rỉ gần đây đều cho thấy rằng thời điểm mà thiết bị được ra mắt sẽ là một thời gian ngắn sau khi Macbook Air và Pro được trình làng. Trong phiên bản mới lần này, rất có thể Mac mini M2 Pro 2023 sẽ sở hữu 2 tuỳ chọn màu sắc là màu Bạc và màu Xám không gian.&nbsp;</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/mac-mini-m2-pro-2023-4.jpg\" alt=\" khi nào được ra mắt?\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Không có quá nhiều thông tin cho giá thành của Macbook mini M2 Pro chuẩn bị được ra mắt trong thời gian tới đây. Nhưng nhiều khả năng Apple sẽ không nâng giá của thiết bị lên quá cao so với các phiên bản trước đó là M1 bản tiêu chuẩn và M1 Pro. Mức giá của 2 phiên bản này lần lượt là 699 và 1099 đô. Vậy nên rất có thể giả thành của thiết bị này sẽ dao động trong tầm giá 100 đô la.</p> <h2 style=\"text-align: justify;\"><strong>Đặt mua Mac mini M2 Pro 2023 sớm nhất tại cửa hàng CellphoneS</strong></h2> <p style=\"text-align: justify;\">Để có thể sở hữu thiết bị công nghệ mạnh mẽ này của Apple trong thời gian sớm nhất, bạn có thể xem xét đặt mua sớm tại cửa hàng bán lẻ điện thoại CellphoneS. Tại đây, CellphoneS luôn cung cấp, phân phối những thiết bị công hiện đại, chính hãng trong thời gian sớm nhất cho quý khách hàng.</p>"
+            }
+        ],
+        "category": [
+            "Laptop"
+        ],
+        "totalRating": [
+            "0/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -620,6 +699,9 @@
         ],
         "totalRating": [
             "0/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -655,6 +737,52 @@
         ],
         "totalRating": [
             "5.0/5"
+        ],
+        "brand": [
+            "Apple"
+        ]
+    },
+    {
+        "title": [
+            "Macbook Pro 16 M1 Max 10 CPU - 32 GPU 32GB 1TB 2021 | Chính hãng Apple Việt Nam"
+        ],
+        "images": [
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/c/l/cl.png",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-pro-2021-05_4_2.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-pro-2021-004_3.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-pro-2021-005_3.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-pro-2021-006_4.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-pro-2021-001_3.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-pro-2021-007_4.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-pro-2021-003_3.jpg"
+        ],
+        "price": [
+            {
+                "price_show": "80.990.000 ₫",
+                "price_through": "92.990.000 ₫"
+            }
+        ],
+        "colors": [
+            "Bạc",
+            "Xám"
+        ],
+        "technicalInfo": [
+            "<li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Loại card đồ họa</p> <div>32 GPU</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Dung lượng RAM</p> <div>32GB</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Ổ cứng</p> <div>1TB SSD</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Kích thước màn hình</p> <div>16.2 inches</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Công nghệ màn hình</p> <div>120Hz, Liquid Retina, Mini LED, XDR</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Hệ điều hành</p> <div>MacOS</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Độ phân giải màn hình</p> <div>3456 x 2234 pixels </div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Cổng giao tiếp</p> <div>1x Headphone jack <br> 1x MagSafe port <br> 1x HDMI <br> 1x Thunderbolt 4 <br> 1x SDXC</div></li>"
+        ],
+        "description": [
+            {
+                "features_des": null,
+                "features_detail": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" width=\"10\" height=\"10\"><path d=\"M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z\"></path></svg>"
+            }
+        ],
+        "category": [
+            "Laptop"
+        ],
+        "totalRating": [
+            "0/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -694,6 +822,51 @@
         ],
         "totalRating": [
             "5.0/5"
+        ],
+        "brand": [
+            "Mac"
+        ]
+    },
+    {
+        "title": [
+            "MacBook Pro 16 inch M2 Pro 2023 (12 CPU - 19 GPU - 16GB - 512GB)"
+        ],
+        "images": [
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_spa.png",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_spa.png",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_pro_14_inch__41iqg8l6hsyi_large.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/i/display_14_inch__f298e9zwj02m_large.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/r/o/routers_compare__dg2f68dd3y0y_large.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/i/n/in_the_box_14_inch__cla7biqzxe6a_large.jpg",
+            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/k/e/keyboard_14_inch__bjo3gj8bnogi_large.jpg"
+        ],
+        "price": [
+            {
+                "price_show": "60.990.000 ₫",
+                "price_through": "65.990.000 ₫"
+            }
+        ],
+        "colors": [
+            "Xám",
+            "Bạc"
+        ],
+        "technicalInfo": [
+            "<li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Loại card đồ họa</p> <div>19 nhân GPU</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Dung lượng RAM</p> <div>16GB</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Ổ cứng</p> <div>2TB SSD</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Kích thước màn hình</p> <div>16 inches</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Công nghệ màn hình</p> <div>120Hz, Liquid Retina, Mini LED, XDR</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Pin</p> <div>70Wh<br>Sạc 96W</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Hệ điều hành</p> <div>MacOS</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Độ phân giải màn hình</p> <div>3456 x 2234 pixels </div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Cổng giao tiếp</p> <div>1x Headphone jack <br> 1x MagSafe port <br> 1x HDMI <br> 1x Thunderbolt 4 <br> 1x SDXC</div></li>"
+        ],
+        "description": [
+            {
+                "features_des": "<ul><li>Thiết kế sang trọng - Vỏ kim loại cùng trọng lượng chỉ 2.15kg dễ dàng mang theo mọi nơi</li><li>Hiển thị chân thật - Kích thước màn hình 16.2 inch cùng tần số quét lên đến 120Hz</li><li>Cấu hình mạnh mẽ - Ram 16GB cùng SSD 512 GB đa nhiệm mượt mà, tránh tình trạng giật lag</li><li>Xử lý tốt các tác vụ đồ hoạ - GPU 19 nhân giúp việc render videor hay chỉnh sửa ảnh diễn ra một cách nhẹ nhàng.</li></ul>",
+                "features_detail": "<h2 style=\"text-align: justify;\"><strong>Macbook Pro 16 inch 2023 M2 Pro&nbsp;– Đồ họa ấn tượng, cấu hình mạnh mẽ</strong></h2> <p style=\"text-align: justify;\">Macbook Pro 16 inch M2 Pro 2023 có thiết kế và tính năng ấn tượng có những ý kiến tích cực từ phía khách hàng. Chiếc <a href=\"https://cellphones.com.vn/laptop/mac/macbook-pro/macbook-pro-2023.html\" title=\"Macbook Pro 2023\"><strong>Macbook Pro 2023</strong></a> được sản xuất bởi nhà Apple, thương hiệu có tiếng trong thị trường công nghệ, nên càng nâng cao vị thế của sản phẩm khi ra mắt.&nbsp;</p> <h3 style=\"text-align: justify;\"><strong>Cấu hình mạnh mẽ, ổn định với con chip M2 Pro</strong></h3> <p style=\"text-align: justify;\">Macbook Pro 16 2023 M2 Pro trang bị cấu hình nổi trội nhờ con chipset M2 Pro 12 nhân, 19 nhân GPU, 16 nhân Neural Engine cùng băng thông bộ nhớ lên đến 200GB/s. Nhờ vậy laptop sẽ hoạt động mạnh mẽ, ổn định trong nhiều giờ liền. Hiệu năng hoạt động của máy được nâng cao lên gấp nhiều lần so với sản phẩm thông thường khác trên thị trường.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro-16-inch-m2-pro-2023-5.jpg\" alt=\"Macbook Pro 16 inch M2 Pro 2023\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Dung lượng pin khủng, người dùng sử dụng liên tục, sau khi cạn pin có thể nạp đầy nhờ củ sạc nhanh đi kèm tăng khả năng sạc pin cho máy, không cần phải chờ đợi trong thời gian dài. Sản phẩm đã có độ hot nhất định từ lúc chưa tung ra thị trường cho đến bây giờ.</p> <h3 style=\"text-align: justify;\"><strong>Thiết kế tinh tế thời thượng, trọng lượng nhẹ dễ mang đi</strong></h3> <p style=\"text-align: justify;\">Macbook Pro 16 inch M2 Pro 2023 có thiết kế hiện đại, với viền mỏng nhẹ, màn hình lớn 16 inch giúp người dùng có trải nghiệm ấn tượng hơn khi xem phim, lướt web. Công nghệ màn hình Promotion, hình ảnh mang đến sắc nét và hiển thị hàng triệu sắc màu trên một khung hình.</p> <p style=\"text-align: justify;\">Kích thước Macbook Pro 16 inch 2023 gọn nhẹ: W35.57 x H1.68 x D24.81 (cm). Trong khi trọng lượng chỉ 2.15kg, người dùng dễ dàng mang đi nhiều nơi khác nhau để tiến hành học tập, làm việc.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro-16-inch-m2-pro-2023-4.jpg\" alt=\"Macbook Pro 16 inch M2 Pro 2023\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Với bàn phím có độ nảy tốt, tiến độ công việc sẽ được tăng lên, đạt hiệu quả khi sử dụng trong thời gian dài, laptop có tốc độ màn hình làm mới nhanh chóng lên đến từng giây, không sợ bị trễ khi đang thực hiện các thao tác trên sản phẩm. Chất liệu của Macbook Pro 16 inch M2 Pro 2023 cao cấp, cứng cáp giúp tăng sự bền bỉ, hạn chế trầy xước trong quá trình sử dụng.</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro-16-inch-m2-pro-2023.2.jpg\" alt=\"Thiết kế tinh tế thời thượng, trọng lượng nhẹ dễ mang đi\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Laptop có chế độ ban đêm, giúp hạn chế ánh sáng xanh, ảnh hưởng trực tiếp đến mắt, giảm thiểu các tật khúc xạ khi tiếp xúc với thiết bị thông minh quá nhiều. Mật khẩu của laptop còn giúp bảo vệ sản phẩm khỏi kẻ xấu khi muốn lấy cắp thông tin quan trọng trong máy chủ của người dùng.&nbsp;</p> <h3 style=\"text-align: justify;\"><strong>Đồ họa ấn tượng</strong></h3> <p style=\"text-align: justify;\">Macbook Pro 16 inch 2023 M2 Pro&nbsp;có camera sắc nét, quay phim hay chụp ảnh rõ ràng mà không lo bị nhòe. Do đó, người dùng sẽ có trải nghiệm ấn tượng khi chiến game, xem phim nhờ card đồ họa ấn tượng, hình ảnh sống động, rực rỡ đến từng chi tiết nhỏ.&nbsp;</p> <p style=\"text-align: justify;\"><img src=\"https://cdn2.cellphones.com.vn/x,webp,q100/media/wysiwyg/laptop/macbook/macbook-pro-16-inch-m2-pro-2023-3.jpg\" alt=\"Macbook Pro 16 inch M2 Pro 2023\" loading=\"lazy\"></p> <p style=\"text-align: justify;\">Bên cạnh đó, kết hợp với hình ảnh là âm thanh, với âm thanh đa chiều, rõ đến từng nhịp bass, tiếng trống trong bài nhạc, người dùng sẽ thư giãn sau một khoảng thời gian dài làm việc tại công ty hay học tập tại trường. Ngoài ra, người dùng sẽ có khoảnh khắc bùng nổ khi chiến game cùng bạn bè, hay xem phim cùng người thân.</p> <h2 style=\"text-align: justify;\"><strong>Mua Macbook Pro 16 inch M2 Pro 2023 chính hãng tại CellphoneS</strong></h2> <p style=\"text-align: justify;\">Macbook Pro 16 inch 2023 có bán tại hệ thống CellphoneS, hàng chính hãng Apple Việt Nam, ưu đãi lớn, nhân viên có thái độ phục vụ chuyên nghiệp và tận tình. Nếu có câu hỏi về laptop, nhắn tin ngay cho website chính thức của cửa hàng, nhân viên sẽ hỗ trợ trả lời câu hỏi của khách hàng trong thời gian sớm nhất có thể.</p>"
+            }
+        ],
+        "category": [
+            "Laptop"
+        ],
+        "totalRating": [
+            "0/5"
+        ],
+        "brand": [
+            "Apple"
         ]
     },
     {
@@ -734,125 +907,9 @@
         ],
         "totalRating": [
             "0/5"
-        ]
-    },
-    {
-        "title": [
-            "Apple Macbook Air M2 2022 24GB 256GB I Chính hãng Apple Việt Nam"
         ],
-        "images": [
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_air_m2_1.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_air_m2_1.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_air_m2_1_1_1_7.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_air_m2_4_1_1_5.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_air_m2_2_1_1_6.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_air_m2_3_1_1_5.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_air_m2_5_1_1_4.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/1/_/1_74_10_2_4.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/2/_/2_54_9_2_4.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/3/_/3_40_7_2_4.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/4/_/4_33_8_2_4.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/5/_/5_27_7_2_4.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/6/_/6_17_6_2_4.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/7/_/7_7_2_2_4.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/9/_/9_2_3_2_4.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/8/_/8_6_2_2_4.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/1/1/11_5_1_2_4.png",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/1/0/10_5_3_2_4.png"
-        ],
-        "price": [
-            {
-                "price_show": "37.990.000 ₫",
-                "price_through": "45.990.000 ₫"
-            }
-        ],
-        "colors": [
-            "Xám",
-            "Bạc",
-            "Đen",
-            "Trắng vàng"
-        ],
-        "technicalInfo": [
-            "<li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Loại card đồ họa</p> <div>8 nhân GPU, 16 nhân Neural Engine</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Dung lượng RAM</p> <div>24GB</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Ổ cứng</p> <div>256GB</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Kích thước màn hình</p> <div>13.6 inches</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Công nghệ màn hình</p> <div>Liquid Retina Display</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Pin</p> <div>52,6 Wh</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Hệ điều hành</p> <div>MacOS</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Độ phân giải màn hình</p> <div>2560 x 1664 pixels</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Cổng giao tiếp</p> <div> 2 x Thunderbolt 3<br>Jack tai nghe 3.5 mm<br>MagSafe 3</div></li>"
-        ],
-        "description": [
-            {
-                "features_des": "<ul><li>Thiết kế sang trọng, lịch lãm - siêu mỏng 11.3mm, chỉ 1.24kg</li><li>Hiệu năng hàng đầu - Chip Apple m2, 8 nhân GPU, hỗ trợ tốt các phần mềm như Word, Axel, Adoble Premier</li><li>Ram lên đến 24GB - Tốc độ khởi động ứng dụng nhanh chóng, cho phép chạy máy ảo mở cùng lúc nhiều ứng dụng</li><li>Màn hình sắc nét - Độ phân giải 2560 x 1664 cùng độ sáng 500 nits</li><li>Âm thanh sống động - 4 loa tramg bị công nghệ dolby atmos và âm thanh đa chiều</li></ul>",
-                "features_detail": "null"
-            }
-        ],
-        "category": [
-            "Laptop"
-        ],
-        "totalRating": [
-            "0/5"
-        ]
-    },
-    {
-        "title": [
-            "Apple MacBook Air 13 inch 128GB MQD32 I Chính hãng Apple Việt Nam"
-        ],
-        "images": [
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-air-mqd32-1_3.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-air-mqd32-2_3.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-air-mqd32-3_3.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook-air-mqd32-4_3.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/6/3/636688207026676028_macbookair-1_1.jpg"
-        ],
-        "price": [
-            {
-                "price_show": "20.000.000 ₫",
-                "price_through": "21.000.000 ₫"
-            }
-        ],
-        "colors": [],
-        "technicalInfo": [
-            "<li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Loại card đồ họa</p> <div>Intel HD Graphics 6000</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Dung lượng RAM</p> <div>8GB</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Ổ cứng</p> <div>128GB SSD</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Kích thước màn hình</p> <div>13.3 inches</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Pin</p> <div>Li-Po 54 Wh</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Hệ điều hành</p> <div>OS X Sierra</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Độ phân giải màn hình</p> <div>1440 x 900 pixels</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Trọng lượng</p> <div>1.35 kg (2.96 lb)</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Cổng giao tiếp</p> <div>2 cổng USB 3 <br>1 cổng Thunderbolt 2<br>Cổng sạc Magsafe 2</div></li>"
-        ],
-        "description": [
-            {
-                "features_des": null,
-                "features_detail": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" width=\"10\" height=\"10\"><path d=\"M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z\"></path></svg>"
-            }
-        ],
-        "category": [
-            "Laptop"
-        ],
-        "totalRating": [
-            "0/5"
-        ]
-    },
-    {
-        "title": [
-            "Mac Studio 2022 M1 Max 10 CPU | Chính hãng Apple Việt Nam"
-        ],
-        "images": [
-            "https://img.youtube.com/vi/yvX1WkFFtQI/maxresdefault.jpg",
-            "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/mac-studio-1646775245-8194-1646775416-removebg-preview.jpg"
-        ],
-        "price": [
-            {
-                "price_show": "49.990.000 ₫",
-                "price_through": "55.990.000 ₫"
-            }
-        ],
-        "colors": [
-            "Bạc"
-        ],
-        "technicalInfo": [
-            "<li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Loại card đồ họa</p> <div>24 nhân GPU<br>16 nhân Neural Engine</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Dung lượng RAM</p> <div>32GB</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Ổ cứng</p> <div>512 SSD</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Pin</p> <div>Sử dụng nguồn điện 100 – 240V AC</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Hệ điều hành</p> <div>Mac OS</div></li><li class=\"technical-content-item is-flex is-align-items-center is-justify-content-space-between p-2\"><p>Cổng giao tiếp</p> <div>Thunderbolt 4 (up to 40Gb/s) 1x DisplayPort USB 4, 1x USB 3.1 Gen 2, 2x USB-A ports 1x  HDMI, 1x 10Gb Ethernet, 1x 3.5 mm jack</div></li>"
-        ],
-        "description": [
-            {
-                "features_des": null,
-                "features_detail": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" width=\"10\" height=\"10\"><path d=\"M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z\"></path></svg>"
-            }
-        ],
-        "category": [
-            "Laptop"
-        ],
-        "totalRating": [
-            "0/5"
+        "brand": [
+            "Apple"
         ]
     }
 ]

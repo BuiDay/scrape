@@ -14,18 +14,18 @@ const scrapeController = async (browserInstance) =>{
         })
         
         //lay link tung phan loai dien thoai////////////////////////////////////////////////////
-        const linkCategories = await scrapers.scrapeLinkCategory(browser,selectedCategory[0].link)
+        // const linkCategories = await scrapers.scrapeLinkCategory(browser,selectedCategory[0].link)
        
         //tong hop tat link cac hang mobile
         //lay chi tiet dien thoai
         //apple moblie
-        const DetailsMobile = await scrapers.scraper(browser,linkCategories[0][0])
-        fs.writeFile("apple-mobile.json",JSON.stringify(DetailsMobile),(err)=>{
-            if(err) console.log('Ghi thất bại',err);
-        })
+        // const DetailsMobile = await scrapers.scraper(browser,linkCategories[0][5])
+        // fs.writeFile("asus_mobile.json",JSON.stringify(DetailsMobile),(err)=>{
+        //     if(err) console.log('Ghi thất bại',err);
+        // })
 
-        // const DetailsMobile_2 = await scrapers.scraper(browser,linkCategories[0][1])
-        // fs.writeFile("samsung-mobile.json",JSON.stringify(DetailsMobile_2),(err)=>{
+        // const DetailsMobile_2 = await scrapers.scraper(browser,linkCategories[0][6])
+        // fs.writeFile("realme_mobile.json",JSON.stringify(DetailsMobile_2),(err)=>{
         //     if(err) console.log('Ghi thất bại',err);
         // })
 
@@ -33,12 +33,66 @@ const scrapeController = async (browserInstance) =>{
 
         //laptop
 
-        // const linkLaptop = await scrapers.scrapeLinkCategory(browser,selectedCategory[1].link)
+        const linkLaptop = await scrapers.scrapeLinkCategory(browser,selectedCategory[1].link)
 
-        // const DetailsLaptop = await scrapers.scraper(browser,linkLaptop[0][0])
-        // fs.writeFile("apple-laptop.json",JSON.stringify(DetailsLaptop),(err)=>{
+        // const apple_laptop = await scrapers.scraper(browser,linkLaptop[0][0])
+        // fs.writeFile("apple_laptop.json",JSON.stringify(apple_laptop),(err)=>{
         //     if(err) console.log('Ghi thất bại',err);
         // })
+
+        // const hp_laptop = await scrapers.scraper(browser,linkLaptop[0][1])
+        // fs.writeFile("hp_laptop.json",JSON.stringify(hp_laptop),(err)=>{
+        //     if(err) console.log('Ghi thất bại',err);
+        // })
+
+        const dell_laptop = await scrapers.scraper(browser,linkLaptop[0][2])
+        fs.writeFile("dell_laptop.json",JSON.stringify(dell_laptop),(err)=>{
+            if(err) console.log('Ghi thất bại',err);
+        })
+
+        const asus_laptop = await scrapers.scraper(browser,linkLaptop[0][3])
+        fs.writeFile("asus_laptop.json",JSON.stringify(asus_laptop),(err)=>{
+            if(err) console.log('Ghi thất bại',err);
+        })
+
+        const lenovo_laptop = await scrapers.scraper(browser,linkLaptop[0][4])
+        fs.writeFile("lenovo_laptop.json",JSON.stringify(lenovo_laptop),(err)=>{
+            if(err) console.log('Ghi thất bại',err);
+        })
+
+        const acer_laptop = await scrapers.scraper(browser,linkLaptop[0][5])
+        fs.writeFile("acer_laptop.json",JSON.stringify(acer_laptop),(err)=>{
+            if(err) console.log('Ghi thất bại',err);
+        })
+
+        const xiaomi_laptop = await scrapers.scraper(browser,linkLaptop[0][6])
+        fs.writeFile("xiaomi_laptop.json",JSON.stringify(xiaomi_laptop),(err)=>{
+            if(err) console.log('Ghi thất bại',err);
+        })
+
+        
+        const microsoft_laptop = await scrapers.scraper(browser,linkLaptop[0][7])
+        fs.writeFile("microsoft_laptop.json",JSON.stringify(microsoft_laptop),(err)=>{
+            if(err) console.log('Ghi thất bại',err);
+        })
+
+        const lg_laptop = await scrapers.scraper(browser,linkLaptop[0][8])
+        fs.writeFile("lg_laptop.json",JSON.stringify(lg_laptop),(err)=>{
+            if(err) console.log('Ghi thất bại',err);
+        })
+
+        const msi_laptop = await scrapers.scraper(browser,linkLaptop[0][10])
+        fs.writeFile("msi_laptop.json",JSON.stringify(msi_laptop),(err)=>{
+            if(err) console.log('Ghi thất bại',err);
+        })
+
+        const giga_laptop = await scrapers.scraper(browser,linkLaptop[0][11])
+        fs.writeFile("giga_laptop.json",JSON.stringify(giga_laptop),(err)=>{
+            if(err) console.log('Ghi thất bại',err);
+        })
+
+
+//////////////
 
         console.log("Đã xong")
 

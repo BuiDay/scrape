@@ -42,6 +42,9 @@ const scrapeLinkCategory = async (browser,url) => new Promise(async(resolve,reje
                     el.querySelectorAll(".list-brand__item")[5].href,
                     el.querySelectorAll(".list-brand__item")[6].href,
                     el.querySelectorAll(".list-brand__item")[7].href,
+                    el.querySelectorAll(".list-brand__item")[8].href,
+                    el.querySelectorAll(".list-brand__item")[10].href,
+                    el.querySelectorAll(".list-brand__item")[11].href,
             ]
          })
          return linkCategory
