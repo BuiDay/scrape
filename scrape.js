@@ -166,7 +166,21 @@ const scraper = async (browser,url) => new Promise(async(resolve,reject)=>{
                     return brand
                 })
 
+                //Lay review
+                const review  = await newPageDetail.$$eval(".boxReview > .boxReview-comment > .boxReview-comment-item",els=>{
+                    review  = els.map(el =>{
+                        return {
+                            name:el.querySelector(".boxReview-comment-item-title div span") && el.querySelector(".boxReview-comment-item-title div span").innerText,
+                            date:el.querySelector(".boxReview-comment-item-title .date-time") && el.querySelector(".boxReview-comment-item-title .date-time").innerText,
+                            rating:el.querySelector(".boxReview-comment-item-review .item-review-rating div") && el.querySelectorAll(".is-active").length,
+                            comment:el.querySelector(".boxReview-comment-item-review .item-review-comment div p") && el.querySelector(".boxReview-comment-item-review .item-review-comment div p").innerText
+                        }
+                    })
+                    return review
+                })
+
                 console.log(brand)
+                console.log(review)
       
                 const dataDatail = {
                     title,
@@ -177,7 +191,8 @@ const scraper = async (browser,url) => new Promise(async(resolve,reject)=>{
                     description,
                     category,
                     totalRating,
-                    brand
+                    brand,
+                    review
                 }
                 await newPageDetail.close()
                 console.log('>>Đã đóng tab...',link)

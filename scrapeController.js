@@ -17,13 +17,14 @@ const scrapeController = async (browserInstance) =>{
 
         
         //lay link tung phan loai dien thoai////////////////////////////////////////////////////
-        // const linkCategories = await scrapers.scrapeLinkCategory(browser,selectedCategory[0].link)
+        const linkCategories = await scrapers.scrapeLinkCategory(browser,selectedCategory[0].link)
        
         //tong hop tat link cac hang mobile
         //lay chi tiet dien thoai
         //apple moblie
+
         // const DetailsMobile = await scrapers.scraper(browser,linkCategories[0][5])
-        // fs.writeFile("asus_mobile.json",JSON.stringify(DetailsMobile),(err)=>{
+        // fs.writeFile("nokia_mobile.json",JSON.stringify(DetailsMobile),(err)=>{
         //     if(err) console.log('Ghi thất bại',err);
         // })
 
@@ -32,11 +33,15 @@ const scrapeController = async (browserInstance) =>{
         //     if(err) console.log('Ghi thất bại',err);
         // })
 
+        const DetailsMobile_3 = await scrapers.scraper(browser,linkCategories[0][7])
+        fs.writeFile("asus_mobile.json",JSON.stringify(DetailsMobile_3),(err)=>{
+            if(err) console.log('Ghi thất bại',err);
+        })
         /////////////////////////////////////////////////////////////////////////////
 
         //laptop
 
-        const linkLaptop = await scrapers.scrapeLinkCategory(browser,selectedCategory[1].link)
+        // const linkLaptop = await scrapers.scrapeLinkCategory(browser,selectedCategory[1].link)
         
         // const apple_laptop = await scrapers.scraper(browser,linkLaptop[0][0])
         // fs.writeFile("apple_laptop.json",JSON.stringify(apple_laptop),(err)=>{
